@@ -1,5 +1,5 @@
 # arc-clone-3d
-A collection of 3D files for the Monome Arc Clone by Johannes Neumann
+A collection of 3D files for the Monome Arc Clone by Johannes Neumann, which can be found at https://github.com/TheSlowGrowth/MonomeArcClone/
 
 Knob - D-Shaft knob, fitment can be difficult based on the accuracy of your printer and material used.
 
